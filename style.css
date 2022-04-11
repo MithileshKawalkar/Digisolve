@@ -44,7 +44,7 @@ header ul li a{
 /********Header********/
 
 header{
-    background-image: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.9)),url(img/header-img.jpg);
+    background-image: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.9)),url(header-img.jpg);
     height: 100vh;
     width: 100vw;
     background-size: cover;
@@ -284,7 +284,7 @@ h1{
     color:white;
     text-align: center;
     padding: 50px 50px;
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url("img/testimonial-background.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url("testimonial-background.jpg");
     background-size: cover ;
     background-attachment: fixed;
 }
